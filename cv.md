@@ -13,6 +13,7 @@
    * [Link to Amazon-k](https://womajies.github.io/Amazon-k/)
    * [Link to olins](https://womajies.github.io/olins/)
    * [Link to MartaUp](https://womajies.github.io/martaup/)
+   * [Link to Stars-War](https://womajies.github.io/stars-war/)
 6. Sea battle game on JavaScript
 7. Course Udemy - Web development from scratch to a professional
 8. English level A2
