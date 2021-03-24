@@ -1,6 +1,6 @@
 # Resume the junior web-developer
 
-1. **Shamil Magomedov**
+1. **Ruslan Magomedov**
 2. 
    * tel(+WhatsApp): +79634254691
    * email: **magomedov.dev@yandex.ru**
